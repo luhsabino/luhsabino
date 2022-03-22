@@ -10,7 +10,7 @@
   <img align="center" alt="Luh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luh-C" height="30" width="40" src="https://url.gratis/7JrCTq">
-  <img align="center" alt="Luh-C#" height="30" width="40" src="https://url.gratis/rbibvT">  
+  <img align="center" alt="Luh-C#" height="30" width="40" src="https://url.gratis/yeo4Es">  
 </div>
   
   ##
